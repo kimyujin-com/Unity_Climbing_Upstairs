@@ -13,5 +13,4 @@
 유튜버 골드메탈 '유니티 기초 강좌'(https://www.youtube.com/watch?v=GHUJMXtHKL0)
 
 주인공 캐릭터: https://assetstore.unity.com/packages/2d/characterssimple-2d-platformer-assets-pack-188518
-
 음향: https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
