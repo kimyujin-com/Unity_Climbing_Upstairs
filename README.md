@@ -1,4 +1,4 @@
-# Climbing_Upstairs
+# Climbing Upstairs
 
 오락실 테마의 'Climbing Upstairs'
 <h3>게임 설명</h3>
@@ -11,7 +11,6 @@
 
 <h3>Reference</h3>
 유튜버 골드메탈 '유니티 기초 강좌'(https://www.youtube.com/watch?v=GHUJMXtHKL0)
-
 
 주인공 캐릭터: https://assetstore.unity.com/packages/2d/characterssimple-2d-platformer-assets-pack-188518
 
