@@ -1,4 +1,4 @@
-# Unity_go_upstairs
+# Climbing_Upstairs
 
 오락실 테마의 'Climbing Upstairs'
 <h3>게임 설명</h3>
