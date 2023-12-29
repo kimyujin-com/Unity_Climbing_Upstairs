@@ -1,7 +1,7 @@
 # Unity_go_upstairs
 
 오락실 테마의 'Climbing Upstairs'
-### **[게임 설명]**
+<h3>게임 설명</h3>
 
 심해에서 시작해서 우주까지 올라가보자!
 
